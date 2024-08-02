@@ -1,0 +1,10 @@
+*pdb
+Artverviricota*/
+__pycache__/*
+lightning_logs/
+esmout/
+poor-500/
+scop40-pdb/
+*fasta
+*fa
+*csv
