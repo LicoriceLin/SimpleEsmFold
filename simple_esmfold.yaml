@@ -46,7 +46,7 @@ model:
   predict_outdir: esmout
 data:
   fasta: poor-500.fasta
-  disk: poor-500
+  disk: null
   predict_batchsize: 50
 return_predictions: null
 ckpt_path: null
